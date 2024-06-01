@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Anime Theme Song Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "It is a website that contains the theme songs of various anime. It is developed using HTML, CSS, and JavaScript.",
+    url: "https://shivakrishnareddyburra.github.io/My_FirstWeb/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Calculator",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "It is a simple calculator developed using HTML, CSS, and JavaScript.",
+    url: "https://shivakrishnareddyburra.github.io/CALCULATOR/",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://shivakrishnareddyburra.github.io/Resume/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Drive Dynamnos",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "It is a website developed for the event SumShodhini-23 conducted by the Department of  Electronics and Communication Engineering, KITSW.",
+    url: "https://shivakrishnareddyburra.github.io/Drive_Dynamos_forSumShodhini-23/",
   },
 ];
 

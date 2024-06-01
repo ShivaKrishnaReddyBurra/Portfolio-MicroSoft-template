@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -24,19 +24,22 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
-
+  "I am currently pursuing a B.Tech at Kakatiya Institute of Technology and Science, Warangal, where I am a second-year student in the Computer Science Department. My interest in web development has driven me to gain proficiency in a range of technologies. On the frontend, I have learned HTML, CSS, JavaScript, and React. On the backend, I have learned Node.js, Express.js, and Embedded JavaScript (EJS). Additionally, I have developed skills in working with REST APIs and PostgreSQL, which round out my abilities as a Full Stack Developer.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "React",
+  "Node.js",
+  "PostgreSQL",
+  "REST APIs",
+  "C Language",
+  "Python",
+  "Java",
 ];
 
 /**
@@ -45,8 +48,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
-
+  "To validate and enhance my knowledge, I have obtained various certifications from respected platforms. I earned certificates in C Language and Java from NPTEL, and in JavaScript, Python, and SQL from HackerRank. I have also completed courses on Udemy to further my understanding of web development.";
 const About = () => {
   return (
     <section className="padding" id="about">
