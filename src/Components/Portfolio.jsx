@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/web-development.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -38,8 +38,7 @@ const projectList = [
   },
   {
     title: "Calculator",
-    description:
-      "It is a simple calculator developed using HTML, CSS, and JavaScript.",
+    description: "It is a simple calculator developed using HTML, CSS, and JavaScript.",
     url: "https://shivakrishnareddyburra.github.io/CALCULATOR/",
   },
   {
@@ -53,6 +52,12 @@ const projectList = [
     description:
       "It is a website developed for the event SumShodhini-23 conducted by the Department of  Electronics and Communication Engineering, KITSW.",
     url: "https://shivakrishnareddyburra.github.io/Drive_Dynamos_forSumShodhini-23/",
+  },
+  {
+    title: "My Portfolio",
+    description:
+      "It is a website that contains my details and my projects. It is developed using React.I have deployed it using vercel.",
+    url: "https://bskr.vercel.app/",
   },
 ];
 

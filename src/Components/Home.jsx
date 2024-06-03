@@ -20,9 +20,9 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/shiva1.jpg";
+import image from "../images/bg.jpg";
 
-const imageAltText = "Shiva Krishna Reddy Burra";
+const imageAltText = "Web development";
 
 const Home = ({ name, title }) => {
   return (
